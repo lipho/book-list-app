@@ -26,7 +26,7 @@ class BookList extends React.Component {
 }
 
 /**
- * WHatever is returned will show up as props inside of BookList
+ * Whatever is returned will show up as props inside of BookList
  * @param state
  * @returns {{books: *}}
  */

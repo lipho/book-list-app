@@ -8,6 +8,6 @@ export function selectBook(book) {
     //actions have to have a type. sometimes a payload
     //type is always a String in caps
     type: 'BOOK_SELECTED',
-    payload: boot.title
+    payload: book
   }
 }
